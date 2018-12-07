@@ -1,3 +1,3 @@
-interface Parent {
-  abstract class Parent {}
+class Parent {
+  class Parent {}
 }
