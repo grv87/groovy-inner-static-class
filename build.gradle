@@ -1,0 +1,10 @@
+plugins {
+  id 'groovy'
+}
+repositories {
+  jcenter()
+}  
+dependencies {
+  // compile localGroovy()
+  compile 'org.codehaus.groovy:groovy:3.0.0-alpha-3'
+}
